@@ -1,0 +1,12 @@
+{
+  "name": "medicare-plus",
+  "version": "1.0.0",
+  "description": "MediCare Plus - Full-Stack Healthcare & Doctor Appointment Booking Platform",
+  "author": "Divya Patil (https://github.com/divyapatil1175)",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client run dev",
+    "server:dev": "npm --prefix server run dev",
+    "build": "npm --prefix client run build"
+  }
+}
