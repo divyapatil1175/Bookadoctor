@@ -96,8 +96,8 @@ medicare-plus/
 
 Clone your repository:
 ```bash
-git clone https://github.com/divyapatil1175/medicare-plus.git
-cd medicare-plus
+git clone https://github.com/divyapatil1175/Bookadoctor.git
+cd Bookadoctor
 ```
 
 Install dependencies for both backend and frontend:
